@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+
+# Runtime data
+checkout_orders.db
+*.db
+*.sqlite
+used_txids.txt
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
